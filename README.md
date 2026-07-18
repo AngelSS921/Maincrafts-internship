@@ -35,5 +35,5 @@ From the dashboard, users can choose from the following main features:
 ---
 
 ## 🔗 Design Assets
-* **Interactive Figma File:** [Open Design Canvas in Figma]([https://figma.com](https://www.figma.com/design/cyujIbPKemLEw80J6emB1A/Angel-Payment-App-UX-UI-design?node-id=0-1&t=sQwMTkwiLAbb3hCA-1))
-* **Live Web App Preview:** [View Live Mobile Screen Prototype](https://github.io)
+* **Interactive Figma File:** [Open Design Canvas in Figma](https://www.figma.com/design/cyujIbPKemLEw80J6emB1A/Angel-Payment-App-UX-UI-design?node-id=0-1&t=sQwMTkwiLAbb3hCA-1)
+* **Live Web App Preview:** [View Live Mobile Screen Prototype](https://angelss921.github.io/Maincrafts-internship/)
